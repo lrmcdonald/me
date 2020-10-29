@@ -1,1 +1,13 @@
 theme: jekyll-theme-architect
+title: L. R. McDonald
+
+# --- Footer social media links --- #
+
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: "luke.mcdonald@usu.edu"
+  github: lrmcdonald
+  twitter: l_r_mcdonald
+  ORCID: 0000-0001-7845-6452
+  google-scholar: lucian.r.mcdonald
