@@ -6,8 +6,8 @@ I am a PhD candidate @ Utah State University studying moose-vehicle collisions i
 
 My research focuses on human-wildlife conflict management and spatial ecology.
 
-#### Send me an [email](mailto:luke.mcdonald@usu.edu)
+#### Links to my publications are [here](https://scholar.google.com/citations?hl=en&user=liXgTL4AAAAJ)
 
-or
+#### Send me an [email](mailto:luke.mcdonald@usu.edu)
 
 #### DM me on [twitter](https://twitter.com/l_r_mcdonald?s=20)
