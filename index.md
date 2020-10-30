@@ -12,7 +12,7 @@ My research focuses on human-wildlife conflict management and spatial ecology.
 
 :)
 
-## Random Book Reccomendations
+## Book Reccomendations
 
 - [x+y by Eugenia Cheng](https://www.basicbooks.com/titles/eugenia-cheng/x-y/9781541646513/)
 
